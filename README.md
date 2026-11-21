@@ -56,6 +56,7 @@ const davidRip = {
 | :--- | :--- | :--- |
 | **[⚜️ Road-To-Goat-23](https://github.com/Davidriip23/Road-To-Goat-23)** | React 18 · Vite 5 · Capacitor iOS · Zustand · Tailwind | Sovereign Habit OS · Local-First · Zero Cloud Lock-in · 53 Modules |
 | **[🐕 DOBERMAN-HUNT](https://github.com/Davidriip23/DOBERMAN-HUNT)** | HTML5 Canvas 2.5D · Web Audio · TypeScript · Express | 3D Retro Arcade FPS · Weapon Recoil Physics · StoreKit 2 & Play Billing |
+| **[🐙 OctoPublisher-Lite](https://github.com/Davidriip23/OctoPublisher-Lite)** | Node.js 20+ ESM · Zero Dependencies · Vanilla JS | Omnichannel Social Distribution · Lead-Magnet Control Tower |
 
 </div>
 
