@@ -8,7 +8,7 @@
 [![WhatsApp Sovereign](https://img.shields.io/badge/WhatsApp-Executive%20Desk-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573185266584)
 [![Portfolio Hub](https://img.shields.io/badge/Personal%20Hub-333.EXP-C99A3C?style=for-the-badge&logo=vercel&logoColor=white)](https://davidrip23-port.vercel.app)
 [![CAV SaaS](https://img.shields.io/badge/CAV%20SaaS-Live%20Platform-00C853?style=for-the-badge&logo=google-cloud&logoColor=black)](https://cav-clinicas.vercel.app)
-[![Website Bastion AI](https://img.shields.io/badge/Bastion%20AI-Agency%20Infra-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://bastionagency.vercel.app)
+[![Website Bastion AI](https://img.shields.io/badge/Bastion%20AI-Agency%20Infra-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://bastionai.space/)
 
 ---
 
@@ -35,7 +35,7 @@ const davidRip = {
 * **Normativa RIPS 2275 & FEVS:** Medical validation engine against DIAN & SISPRO in JSON format with zero medical glosas.
 * **Architecture:** PostgreSQL with strict Row-Level Security (RLS), multi-tenant isolation, automated mutual exclusion.
 
-### ⚡ 2. [BASTION AI](https://bastionagency.vercel.app)
+### ⚡ 2. [BASTION AI](https://bastionai.space/)
 *Sovereign AI agency infrastructure & autonomous enterprise agent deployment.*
 * **Autonomous Agent Swarms:** High-ticket appointment setters, cold-to-meet outbound bots, and internal ops workflows.
 * **Cloud & BigQuery Pipelines:** Automated ETL, real-time MRR analytics, and enterprise data hygiene.
