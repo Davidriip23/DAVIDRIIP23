@@ -4,11 +4,11 @@
 ### Founder & AI Systems Architect · High-Impact Enterprise Engineering
 **Building Autonomous Multi-Agent Infrastructure, Clinical SaaS & High-Velocity B2B AI Engines.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-David%20Rip-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-David%20Rip-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-garcia-cav/)
 [![WhatsApp Sovereign](https://img.shields.io/badge/WhatsApp-Executive%20Desk-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573185266584)
 [![Portfolio Hub](https://img.shields.io/badge/Personal%20Hub-333.EXP-C99A3C?style=for-the-badge&logo=vercel&logoColor=white)](https://davidrip23-port.vercel.app)
 [![CAV SaaS](https://img.shields.io/badge/CAV%20SaaS-Live%20Platform-00C853?style=for-the-badge&logo=google-cloud&logoColor=black)](https://cav-clinicas.vercel.app)
-[![Website Bastion AI](https://img.shields.io/badge/Bastion%20AI-Agency%20Infra-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://bastionai.space)
+[![Website Bastion AI](https://img.shields.io/badge/Bastion%20AI-Agency%20Infra-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://bastionagency.vercel.app)
 
 ---
 
@@ -35,7 +35,7 @@ const davidRip = {
 * **Normativa RIPS 2275 & FEVS:** Medical validation engine against DIAN & SISPRO in JSON format with zero medical glosas.
 * **Architecture:** PostgreSQL with strict Row-Level Security (RLS), multi-tenant isolation, automated mutual exclusion.
 
-### ⚡ 2. [BASTION AI](https://bastionai.space)
+### ⚡ 2. [BASTION AI](https://bastionagency.vercel.app)
 *Sovereign AI agency infrastructure & autonomous enterprise agent deployment.*
 * **Autonomous Agent Swarms:** High-ticket appointment setters, cold-to-meet outbound bots, and internal ops workflows.
 * **Cloud & BigQuery Pipelines:** Automated ETL, real-time MRR analytics, and enterprise data hygiene.
@@ -54,9 +54,9 @@ const davidRip = {
 
 | Project | Core Stack & Engine | Architectural Highlights |
 | :--- | :--- | :--- |
-| **[⚜️ Road-To-Goat-23](https://github.com/Davidriip23/Road-To-Goat-23)** | React 18 · Vite 5 · Capacitor iOS · Zustand · Tailwind | Sovereign Habit OS · Local-First · Zero Cloud Lock-in · 53 Modules |
+| **[⚜️ ROADTOGOAT23](https://github.com/Davidriip23/ROADTOGOAT23)** | React 18 · Vite 5 · Capacitor iOS · Zustand · Tailwind | Sovereign Habit OS · Local-First · Zero Cloud Lock-in · 53 Modules |
 | **[🐕 DOBERMAN-HUNT](https://github.com/Davidriip23/DOBERMAN-HUNT)** | HTML5 Canvas 2.5D · Web Audio · TypeScript · Express | 3D Retro Arcade FPS · Weapon Recoil Physics · StoreKit 2 & Play Billing |
-| **[🐙 OctoPublisher-Lite](https://github.com/Davidriip23/OctoPublisher-Lite)** | Node.js 20+ ESM · Zero Dependencies · Vanilla JS | Omnichannel Social Distribution · Lead-Magnet Control Tower |
+| **[🐙 OCTOPUBLISHER](https://github.com/Davidriip23/OCTOPUBLISHER)** | Node.js 20+ ESM · Zero Dependencies · Vanilla JS | Omnichannel Social Distribution · Lead-Magnet Control Tower |
 
 </div>
 
